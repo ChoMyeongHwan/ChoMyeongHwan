@@ -2,7 +2,7 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/ChoMyeongHwan/ChoMyeongHwan/assets/114536581/8da35e8a-dd5e-4a2b-93d8-0c36b7e46fa5" width = 250px></picture>
 
 <br>
 
