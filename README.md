@@ -7,7 +7,7 @@
 - 새로운 지식을 습득하는 것에 끊임없는 열정을 가지고 있습니다.
 - 협업을 위한 탁월한 의사소통 능력과 문제 해결 능력을 중요시 합니다.
 
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+### <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"></picture> <b> Skills</b>
 ---
 
 #### 주력 언어 및 프레임워크 (Core Languages and Frameworks)
