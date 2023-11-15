@@ -1,97 +1,81 @@
-<h1 align="center"><b>Hi , I'm MyeongHwan Cho </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-<picture> <img align="right" src="https://github.com/ChoMyeongHwan/ChoMyeongHwan/assets/114536581/8da35e8a-dd5e-4a2b-93d8-0c36b7e46fa5" width = 250px></picture>
-
-<br>
-
-- 백엔드 개발자를 희망하는 취업준비생
-- 현재 메타버스 아카데미 2기 서버 개발 교육을 듣고 있습니다.
-- 교육과 더불어 꾸준한 복습으로 웹 개발을 배우고 있습니다.
-
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
-
-<p align="center">
-
-- **Back-End Development**:
-    
-    ![Java](https://img.shields.io/badge/Java%20-%2314354C.svg?style=for-the-badge&logoColor=white)
-    ![Spring](https://img.shields.io/static/v1?style=for-the-badge&message=Spring&color=6DB33F&logo=Spring&logoColor=FFFFFF&label=)
-<br>   
-    
-- **Front-End Development**:
-
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-<br>
-
-- **Databases**:
-  
-   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-   ![Oracle](https://img.shields.io/badge/Oracle-%23E34F26.svg?style=for-the-badge&logo=oracle&logoColor=white)
-
-<br>
-
-- **Softwares and Tools**:
-
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-<br>
-
-- **Extras**:
-
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
-
-
-</p>
-
-<br>
-<br>
-
------
-
-<br>
-
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
-<div align='left'>
-
-<ul>
-
-<li>
-<a href="mailto:1jmhcho@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  1jmhcho-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-	
-</ul>
-</div>
-
-<br>
+### Hi, there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
-<br>
+
+**안녕하세요. 신입 백엔드 개발자 조명환 입니다.**
+
+- 현재 METAVERSE ACADEMY 2기 서버개발 교육생 입니다.
+- 새로운 지식을 습득하는 것에 끊임없는 열정을 가지고 있습니다.
+- 협업을 위한 탁월한 의사소통 능력과 문제 해결 능력을 중요시 합니다.
+
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+---
+
+#### 주력 언어 및 프레임워크 (Core Languages and Frameworks)
+
+<a href="https://www.java.com" target="_blank"> 
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
+</a>
+<a href="https://spring.io/" target="_blank"> 
+    <img alt="Spring" src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white">
+</a>
+<a href="https://spring.io/projects/spring-boot" target="_blank"> 
+    <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=plastic&logo=spring-boot&logoColor=white">
+</a>
+
+#### 데이터베이스 관리 (Database Management)
+
+<a href="https://www.mysql.com/" target="_blank"> 
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=plastic&logo=mysql&logoColor=white">
+</a>
+<a href="https://www.oracle.com/database/" target="_blank"> 
+    <img alt="Oracle" src="https://img.shields.io/badge/Oracle-%23F80000.svg?style=plastic&logo=oracle&logoColor=white">
+</a>
+
+#### 프론트엔드 개발 (Front-End Development)
+
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"> 
+    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
+</a>
+<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"> 
+    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
+</a>
+<a href="https://www.javascript.com/" target="_blank"> 
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+</a>
+
+<a href="https://reactjs.org/" target="_blank"> 
+    <img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?style=plastic&logo=react&logoColor=black">
+</a>
+<a href="https://nodejs.org/" target="_blank"> 
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-%23339933.svg?style=plastic&logo=node.js&logoColor=white">
+</a>
+
+#### 버전 관리 및 협업 도구 (Version Control and Collaboration)
+
+<a href="https://git-scm.com/" target="_blank"> 
+    <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white">
+</a>
+<a href="https://github.com/" target="_blank"> 
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white">
+</a>
+<a href="https://www.notion.so/" target="_blank"> 
+    <img alt="Notion" src="https://img.shields.io/badge/Notion-%23001177.svg?style=plastic&logo=notion&logoColor=white">
+</a>
+
+### <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px style="vertical-align:bottom"></picture> Github Stats
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChoMyeongHwan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChoMyeongHwan&show_icons=true&theme=radical)
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align='center'>
 
-## <b>✨ 코드는 거짓말을 하지 않는다. ✨</b>
+### <b>✨ 코드는 거짓말을 하지 않는다. ✨</b>
 
 </div>
-<br>
-<br>
-<br>
-<br>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
