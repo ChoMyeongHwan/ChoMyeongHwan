@@ -20,6 +20,16 @@
 <a href="https://spring.io/projects/spring-boot" target="_blank"> 
     <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=plastic&logo=spring-boot&logoColor=white">
 </a>
+<a href="https://flutter.dev" target="_blank"> 
+    <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=flutter&logoColor=white">
+</a>
+<a href="https://www.python.org" target="_blank" rel="noopener noreferrer"> 
+    <img alt="Python" src="https://img.shields.io/badge/Python-%233776AB.svg?style=plastic&logo=python&logoColor=white">
+</a>
+<a href="https://fastapi.tiangolo.com" target="_blank" rel="noopener noreferrer"> 
+    <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=plastic&logo=fastapi&logoColor=white">
+</a>
+
 
 #### 데이터베이스 관리 (Database Management)
 
