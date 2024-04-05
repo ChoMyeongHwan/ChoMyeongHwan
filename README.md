@@ -1,9 +1,8 @@
 ### Hi, there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-**안녕하세요. 신입 백엔드 개발자 조명환 입니다.**
+**안녕하세요. 신입 개발자 조명환 입니다.**
 
-- 현재는 백엔드 개발자 취업 준비 중입니다.
 - 새로운 지식을 습득하는 것에 끊임없는 열정을 가지고 있습니다.
 - 협업을 위한 탁월한 의사소통 능력과 문제 해결 능력을 중요시 합니다.
 
